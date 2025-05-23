@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Physics Notes"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Omar Mashaal"
 description              : &description "PhD student in Quantum Optics at Purdue University"
